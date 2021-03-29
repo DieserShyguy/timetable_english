@@ -1,12 +1,12 @@
 # Timetable
 ## Information:
-Dieses Repository ist in Deutsch verfügbar: [hier](https://github.com/diesershyguy/stundenplan_deutsch)
+Dieses Repository ist in Deutsch verfügbar: [hier](https://github.com/gelbershyguy/stundenplan_deutsch)
 
 ## Example:
-You can find an example on this page: [here](https://diesershyguy.github.io/timetable_english)
+You can find an example on this page: [here](https://gelbershyguy.github.io/timetable_english)
 ## Usage:
 ### Step 0: Downloading
-You can download it there: [Downloads](https://github.com/diesershyguy/timetable_english/releases)
+You can download it there: [Downloads](https://github.com/gelbershyguy/timetable_english/releases)
 ### Step 1 Edit file:
 Open the ```index.html``` in an Editor like the Windows default Editor or Notepad++ or you can open it in an IDE like Visual Studio Code
 ### Step 2 Setting up:
